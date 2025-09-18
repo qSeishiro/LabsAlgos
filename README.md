@@ -1,1 +1,1 @@
-# LabsAlgos
+# labsLG
