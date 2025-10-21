@@ -1,1 +1,1 @@
-# LabsAlgos
+# laba-2
